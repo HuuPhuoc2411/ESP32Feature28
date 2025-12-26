@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For ESP32Feature28
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Feature28Extractor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+reset	KEYWORD2
+feed	KEYWORD2
+compute	KEYWORD2
+fftBlocksProcessed	KEYWORD2
+mfccFramesProcessed	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+F28_SAMPLE_RATE	LITERAL1
+F28_FFT_N	LITERAL1
+F28_FMIN_HZ	LITERAL1
+F28_FMAX_HZ	LITERAL1
+F28_TOP_PEAKS	LITERAL1
+F28_IQR_K	LITERAL1
+F28_IQR_ITERS	LITERAL1
+F28_MODE_BIN_HZ	LITERAL1
+F28_MODE_WINDOW_HZ	LITERAL1
+F28_BETA_CLOSE	LITERAL1
+F28_MFCC_NFFT	LITERAL1
+F28_MFCC_FRAME_LEN	LITERAL1
+F28_MFCC_HOP	LITERAL1
+F28_MEL_FILTERS	LITERAL1
+F28_MFCC_COEFFS	LITERAL1
