@@ -1,4 +1,5 @@
 # ESP32Feature28
+[![Arduino Library](https://www.ardu-badge.com/badge/ESP32Feature28.svg)](https://www.ardu-badge.com/ESP32Feature28)
 
 Arduino library for extracting **28 audio features** from I2S microphones (such as IMP441, INMP441) on ESP32.
 
@@ -194,3 +195,4 @@ A: Real-time on ESP32 @ 240MHz. Processing time << recording time.
 - 🎯 28 features: Peak, Centroid, MFCC mean/std
 - 📦 Support ESP32 + I2S microphones
 - 📚 Full documentation and examples
+
