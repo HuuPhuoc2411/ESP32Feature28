@@ -183,7 +183,7 @@ journal articles, conference papers, theses, or technical reports,
 
 Phuoc, H. (2025). *ESP32Feature28: Audio feature extraction library for ESP32*
 (Version 1.0.0) [Software]. Zenodo.  
-https://doi.org/10.5281/zenodo.18122698
+https://doi.org/10.5281/zenodo.18122898
 
 ## BibTeX
 
@@ -226,6 +226,7 @@ A: Real-time on ESP32 @ 240MHz. Processing time << recording time.
 - 🎯 28 features: Peak, Centroid, MFCC mean/std
 - 📦 Support ESP32 + I2S microphones
 - 📚 Full documentation and examples
+
 
 
 
