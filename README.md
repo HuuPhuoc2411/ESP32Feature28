@@ -194,8 +194,8 @@ https://doi.org/10.5281/zenodo.18122698
   version      = {1.0.0},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18122698},
-  url          = {https://doi.org/10.5281/zenodo.18122698}
+  doi          = {10.5281/zenodo.18122898},
+  url          = {https://doi.org/10.5281/zenodo.18122898}
 }
 
 ```
@@ -226,5 +226,6 @@ A: Real-time on ESP32 @ 240MHz. Processing time << recording time.
 - 🎯 28 features: Peak, Centroid, MFCC mean/std
 - 📦 Support ESP32 + I2S microphones
 - 📚 Full documentation and examples
+
 
 
