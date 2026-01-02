@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: ESP32Feature28
+message: "If you use this software in academic research, please cite it."
+type: software
+authors:
+  - family-names: Phuoc
+    given-names: Huu
+version: 1.0.0
+doi: 10.5281/zenodo.18122698
+date-released: 2025-01
+license: CC-BY-NC-4.0
+repository-code: https://github.com/HuuPhuoc2411/ESP32Feature28
+keywords:
+  - ESP32
+  - Embedded Machine Learning
+  - Audio Feature Extraction
+  - MFCC
+  - Arduino
