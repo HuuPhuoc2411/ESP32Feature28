@@ -161,13 +161,44 @@ All contributions are welcome! Please:
 
 ## 📄 License
 
-MIT License - See [LICENSE](LICENSE) file for details
+BY-NC 4.0 - See [LICENSE](LICENSE) file for details
 
 ## 👤 Author
 
 **Your Name**
 - Email: huuphuoc081102@gmail.com
 - GitHub: [Huu-Phuoc Nguyen](https://github.com/HuuPhuoc2411)
+
+
+## Academic Use and Citation
+
+This project is developed for **scientific research and educational purposes only**
+and is **not intended for commercial use**.
+
+If you use **ESP32Feature28** in any academic work, including but not limited to
+journal articles, conference papers, theses, or technical reports,
+**you MUST cite the software using the following reference**.
+
+### Recommended Citation (APA style)
+
+Phuoc, H. (2025). *ESP32Feature28: Audio feature extraction library for ESP32*
+(Version 1.0.0) [Software]. Zenodo.  
+https://doi.org/10.5281/zenodo.18122698
+
+## BibTeX
+
+```bibtex
+@software{phuoc_esp32feature28_2025,
+  author       = {Huu Phuoc},
+  title        = {ESP32Feature28: Audio feature extraction library for ESP32},
+  version      = {1.0.0},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18122698},
+  url          = {https://doi.org/10.5281/zenodo.18122698}
+}
+
+```
 
 ## 🙏 Acknowledgments
 
@@ -195,4 +226,5 @@ A: Real-time on ESP32 @ 240MHz. Processing time << recording time.
 - 🎯 28 features: Peak, Centroid, MFCC mean/std
 - 📦 Support ESP32 + I2S microphones
 - 📚 Full documentation and examples
+
 
