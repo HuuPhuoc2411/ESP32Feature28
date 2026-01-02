@@ -166,7 +166,7 @@ BY-NC 4.0 - See [LICENSE](LICENSE) file for details
 ## 👤 Author
 
 **Your Name**
-- Email: huuphuoc081102@gmail.com
+- Email: huuphuoc.research@gmail.com
 - GitHub: [Huu-Phuoc Nguyen](https://github.com/HuuPhuoc2411)
 
 
@@ -226,6 +226,7 @@ A: Real-time on ESP32 @ 240MHz. Processing time << recording time.
 - 🎯 28 features: Peak, Centroid, MFCC mean/std
 - 📦 Support ESP32 + I2S microphones
 - 📚 Full documentation and examples
+
 
 
 
